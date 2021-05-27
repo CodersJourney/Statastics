@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Statastics</string>
+    <string name="bar_chart">Bar graphs are the pictorial representation of data (generally grouped), in the form of vertical or horizontal rectangular bars, where the length of bars are proportional to the measure of data. They are also known as bar charts. Bar graphs are one of the means of data handling in statistics.</string>
+    <string name="pie_chart">A pie chart is a type of graph that represents the data in the circular graph. The slices of pie show the relative size of the data. It is a type of pictorial representation of data. A pie chart requires a list of categorical variables and the numerical variables. Here, the term “pie” represents the whole, and the “slices” represent the parts of the whole. </string>
+</resources>
